@@ -1,0 +1,124 @@
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csprojResolveAssemblyReference.cache
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunt.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunteur.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListAuteur.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmpruntsForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.MenuForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifyEmrunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.Properties.Resources.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.RechercherEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ReturnOuvrage.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.GenerateResource.Cache
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csprojResolveAssemblyReference.cache
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunt.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunteur.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListAuteur.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmpruntsForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.MenuForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifyEmrunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.Properties.Resources.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.RechercherEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ReturnOuvrage.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.GenerateResource.Cache
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csprojResolveAssemblyReference.cache
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunt.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunteur.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListAuteur.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmpruntsForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.MenuForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierAuteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifyEmrunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.Properties.Resources.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.RechercherEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerEmprunteurForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerOuvrageForm.resources
+C:\Users\lougec\Desktop\VALIDATION C# - Copie\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.GenerateResource.Cache
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.pdb
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csprojResolveAssemblyReference.cache
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterAuteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunt.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunteur.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterOuvrageForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListAuteur.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmprunteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmpruntsForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListOuvrageForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.MenuForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierAuteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierOuvrageForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifyEmrunteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.Properties.Resources.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.RechercherEmprunteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerEmprunteurForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerOuvrageForm.resources
+C:\Users\MacBook Pro\Desktop\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.GenerateResource.Cache
+C:\Users\MacBook Pro\Desktop\data\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\MacBook Pro\Desktop\data\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\MacBook Pro\Desktop\data\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.pdb
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.exe
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\SolSerie2A.pdb
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.exe
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\bin\Debug\SolSerie2A.pdb
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csprojAssemblyReference.cache
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterAuteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunt.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterEmprunteur.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.AjouterOuvrageForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListAuteur.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmprunteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListEmpruntsForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ListOuvrageForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.MenuForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierAuteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifierOuvrageForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.ModifyEmrunteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.Properties.Resources.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.RechercherEmprunteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerEmprunteurForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.SupprimerOuvrageForm.resources
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.GenerateResource.cache
+D:\s5\c#\Gestion Ouvrage\SolSerie2A\obj\Debug\GESTION_OUVRAGES.csproj.CoreCompileInputs.cache

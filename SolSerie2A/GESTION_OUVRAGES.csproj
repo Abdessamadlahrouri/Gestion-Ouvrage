@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{875BA8AD-F26B-43B3-B7B7-49B6DA4A856C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GESTION_OUVRAGES</RootNamespace>
+    <AssemblyName>SolSerie2A</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjouterAuteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterAuteurForm.Designer.cs">
+      <DependentUpon>AjouterAuteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterEmprunt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterEmprunt.Designer.cs">
+      <DependentUpon>AjouterEmprunt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterEmprunteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterEmprunteur.Designer.cs">
+      <DependentUpon>AjouterEmprunteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterOuvrageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterOuvrageForm.Designer.cs">
+      <DependentUpon>AjouterOuvrageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emprunteur.cs" />
+    <Compile Include="Emprunts.cs" />
+    <Compile Include="GestionEmprunts.cs" />
+    <Compile Include="ListAuteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListAuteur.Designer.cs">
+      <DependentUpon>ListAuteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeEmprunteurs.cs" />
+    <Compile Include="ListEmprunteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListEmprunteurForm.Designer.cs">
+      <DependentUpon>ListEmprunteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListEmpruntsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListEmpruntsForm.Designer.cs">
+      <DependentUpon>ListEmpruntsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeOuvrages.cs" />
+    <Compile Include="ListOuvrageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListOuvrageForm.Designer.cs">
+      <DependentUpon>ListOuvrageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierAuteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierAuteurForm.Designer.cs">
+      <DependentUpon>ModifierAuteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierOuvrageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierOuvrageForm.Designer.cs">
+      <DependentUpon>ModifierOuvrageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyEmrunteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyEmrunteurForm.Designer.cs">
+      <DependentUpon>ModifyEmrunteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ouvrage.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RechercherEmprunteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RechercherEmprunteurForm.Designer.cs">
+      <DependentUpon>RechercherEmprunteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupprimerEmprunteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupprimerEmprunteurForm.Designer.cs">
+      <DependentUpon>SupprimerEmprunteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupprimerOuvrageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupprimerOuvrageForm.Designer.cs">
+      <DependentUpon>SupprimerOuvrageForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AjouterAuteurForm.resx">
+      <DependentUpon>AjouterAuteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterEmprunt.resx">
+      <DependentUpon>AjouterEmprunt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterEmprunteur.resx">
+      <DependentUpon>AjouterEmprunteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterOuvrageForm.resx">
+      <DependentUpon>AjouterOuvrageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListAuteur.resx">
+      <DependentUpon>ListAuteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListEmprunteurForm.resx">
+      <DependentUpon>ListEmprunteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListEmpruntsForm.resx">
+      <DependentUpon>ListEmpruntsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOuvrageForm.resx">
+      <DependentUpon>ListOuvrageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierAuteurForm.resx">
+      <DependentUpon>ModifierAuteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierOuvrageForm.resx">
+      <DependentUpon>ModifierOuvrageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyEmrunteurForm.resx">
+      <DependentUpon>ModifyEmrunteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RechercherEmprunteurForm.resx">
+      <DependentUpon>RechercherEmprunteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupprimerEmprunteurForm.resx">
+      <DependentUpon>SupprimerEmprunteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupprimerOuvrageForm.resx">
+      <DependentUpon>SupprimerOuvrageForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

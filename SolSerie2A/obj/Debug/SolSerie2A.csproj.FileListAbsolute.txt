@@ -1,0 +1,39 @@
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\obj\Debug\SolSerie2A.csprojResolveAssemblyReference.cache
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\bin\Debug\SolSerie2A.exe
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\bin\Debug\SolSerie2A.pdb
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\obj\Debug\SolSerie2A.exe
+c:\users\benabbouabderrahim\documents\visual studio 2013\Projects\SolSerie2A\SolSerie2A\obj\Debug\SolSerie2A.pdb
+E:\Documents\ESISA\3.Année\C#\SolSerie2A\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+E:\Documents\ESISA\3.Année\C#\SolSerie2A\SolSerie2A\obj\Debug\SolSerie2A.exe
+E:\Documents\ESISA\3.Année\C#\SolSerie2A\SolSerie2A\obj\Debug\SolSerie2A.pdb
+E:\Documents\ESISA\3.Année\C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+E:\Documents\ESISA\3.Année\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.exe
+E:\Documents\ESISA\3.Année\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.pdb
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.csprojResolveAssemblyReference.cache
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.AjouterEmprunteur.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.csproj.GenerateResource.Cache
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.MenuForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ListEmprunteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.SupprimerEmprunteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ModifyEmrunteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.RechercherEmprunteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.AjouterAuteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.AjouterOuvrageForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ListAuteur.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ModifierAuteurForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.Properties.Resources.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ListOuvrageForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.SupprimerOuvrageForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ModifierOuvrageForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.AjouterEmprunt.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ListEmpruntsForm.resources
+C:\Users\lougec\Desktop\tous\3A\C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.ReturnOuvrage.resources
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\bin\Debug\SolSerie2A.exe.config
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.exe
+C:\Users\lougec\Desktop\VALIDATION C#\SolSerie2 C#\SolSerie2A\obj\Debug\SolSerie2A.pdb
